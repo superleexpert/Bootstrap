@@ -19,3 +19,8 @@ em会继承父集元素的字体大小
 IE的部分浏览器并不支持em
 
 rem会继承根元素的字体大小
+
+------
+Bootstrap依赖于Bootstrap.js
+Bootstrap.js基于jQuery
+
